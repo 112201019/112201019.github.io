@@ -1,0 +1,38 @@
+
+- title: University Management System (Full Stack)
+  tech: PostgreSQL, Flask, SQLAlchemy, HTML/CSS
+  description: >
+    Built a full-stack role-based portal for managing students, courses, and attendance.
+    - Admin, Faculty, Student roles
+    - Grade management, attendance, course enrollment
+  github: https://github.com/112201019/University_management_system
+  demo:
+
+- title: Maze Pathfinding Visualizer
+  tech: Python, Pygame
+  description: >
+    Visualizes BFS and DFS traversal on a randomly generated maze.
+    - Adjacency list-based maze gen
+    - Real-time pathfinding animation
+  github: https://github.com/yourusername/maze-visualizer
+  demo:
+
+- title: FacePass – Facial Authentication System
+  tech: Python, OpenCV, VGG16, Flask
+  description: >
+    A secure face recognition login system using deep learning.
+    - Extracts facial embeddings using VGG16
+    - Compares embeddings to authorize users
+    - Flask-based interface for demo & deployment
+  github: https://github.com/cognifai-ask-iitpkd/FacePass/tree/main/FacePass_VY19
+  demo: 
+
+
+- title: POS Tagging Toolkit (NLP Project)
+  tech: Python, CRF, BiLSTM, Transformers
+  description: >
+    Built and compared POS taggers using rule-based, statistical, and deep learning methods.
+    - Works on English & Telugu datasets
+    - Compared accuracy, F1, and generalization
+  github: https://github.com/112201019/POS-Tagging_NLP-Project
+  demo: 

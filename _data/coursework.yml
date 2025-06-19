@@ -1,0 +1,27 @@
+core:
+  - Data Structures and Algorithms
+  - Operating Systems
+  - Database Management Systems
+  - Computer Networks
+  - Software Engineering
+  - Object Oriented Programming (Java)
+  - Theory of Computation
+  - Compiler Design
+  - Web Technologies
+
+electives:
+  - Natural Language Processing
+  - Computer Vision
+  - Data Science and Analytics
+  - Cloud Computing
+  - Deep Learning
+  - Information Retrieval
+
+projects:
+  - title: POS Tagger
+    course: NLP
+    desc: Built and evaluated POS tagging models using rule-based and deep learning techniques.
+
+  - title: University Management System
+    course: Web Technologies
+    desc: Developed a full-stack portal with role-based access and relational schema design.
