@@ -25,7 +25,7 @@ permalink: /coursework/
 </ul>
 
 
-##  Projects Done in Coursework
+<!-- ##  Projects Done in Coursework
 
 {% for p in site.data.coursework.projects %}
 <div class="card">
@@ -33,4 +33,4 @@ permalink: /coursework/
   <p><strong>Course:</strong> {{ p.course }}</p>
   <p>{{ p.desc }}</p>
 </div>
-{% endfor %}
+{% endfor %} -->
